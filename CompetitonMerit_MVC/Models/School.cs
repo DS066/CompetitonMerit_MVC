@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CompetitonMerit_MVC.Models
 {
+    // this class is about school like school name, school address, mobile number and school's website as well
     public class School
     {
         public int Id { get; set; }

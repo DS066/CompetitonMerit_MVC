@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
-
-namespace CompetitonMerit_MVC.Models
+// the subject class holds the subject name, subject description and language of subject as well, there is also a primary key 
+; namespace CompetitonMerit_MVC.Models
 {
     public class Subject
     {

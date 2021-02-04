@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace CompetitonMerit_MVC.Models
 {
+    //the class holds the info about the students who participated in the exams and info like student name, age, mobile number and student address
     public class Student_participate
     {
         public int Id { get; set; }

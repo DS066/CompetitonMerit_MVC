@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace CompetitonMerit_MVC.Models
 {
+    // this class holds the info about Merit student, like student who participated in the exam and topped 
+    // with subject Id, school Id, Student ID, and Marks obtained as well
+   
     public class Meritlist
     {
         public int Id { get; set; }
